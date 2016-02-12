@@ -1,34 +1,125 @@
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mInitial source changes: [0m
 [0m[[0mdebug[0m] [0m	removed:Set()[0m
-[0m[[0mdebug[0m] [0m	added: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/RunningScenario.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/console/Console.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/GameStateBase.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Board.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/dtos/Board.scala)[0m
-[0m[[0mdebug[0m] [0m	modified: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/clients/GameOfLifeRedis.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/InitGame.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/GameInterface.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Game.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/GameOfLife.scala)[0m
+[0m[[0mdebug[0m] [0m	added: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/RunningScenario.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/console/Console.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/clients/GameOfLifeRedis.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/GameStateBase.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Cell.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Board.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/InitGame.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/dtos/Board.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/GameInterface.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Neighbors.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Game.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/GameOfLife.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
 [0m[[0mdebug[0m] [0mRemoved products: Set()[0m
 [0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
 [0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/RunningScenario.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/console/Console.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/clients/GameOfLifeRedis.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/GameStateBase.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Board.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/InitGame.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/dtos/Board.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/GameInterface.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Game.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/GameOfLife.scala)[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/RunningScenario.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/console/Console.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/clients/GameOfLifeRedis.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/GameStateBase.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Cell.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Board.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/InitGame.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/dtos/Board.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/GameInterface.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Neighbors.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Game.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/GameOfLife.scala)[0m
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
 [0m[[0mdebug[0m] [0m	product: Set()[0m
 [0m[[0mdebug[0m] [0m	binary dep: Set()[0m
 [0m[[0mdebug[0m] [0m	external source: Set()[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/RunningScenario.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/console/Console.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/clients/GameOfLifeRedis.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/GameStateBase.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Board.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/InitGame.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/dtos/Board.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/GameInterface.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Game.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/GameOfLife.scala)[0m
-[0m[[0mdebug[0m] [0mRecompiling all 11 sources: invalidated sources (10) exceeded 50.0% of all sources[0m
-[0m[[0minfo[0m] [0mCompiling 11 Scala sources to /Users/conorreedy1/Development/testing/GameOfLifeScala/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/RunningScenario.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/console/Console.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/clients/GameOfLifeRedis.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/GameStateBase.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Cell.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Board.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/InitGame.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/dtos/Board.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/GameInterface.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Neighbors.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Game.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/GameOfLife.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 12 sources: invalidated sources (12) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 12 Scala sources to /Users/conorreedy1/Development/testing/GameOfLifeScala/target/scala-2.11/classes...[0m
 [0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
 [0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 1afa8f9, interfacing (CompilerInterface) with Scala compiler version 2.11.7[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 1c1b1488, interfacing (CompilerInterface) with Scala compiler version 2.11.7[0m
 [0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
 [0m[[0mdebug[0m] [0m	-bootclasspath[0m
 [0m[[0mdebug[0m] [0m	/Users/conorreedy1/Development/Platforms/jdk1.8.0_25.jdk/Contents/Home/jre/lib/resources.jar:/Users/conorreedy1/Development/Platforms/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar:/Users/conorreedy1/Development/Platforms/jdk1.8.0_25.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Users/conorreedy1/Development/Platforms/jdk1.8.0_25.jdk/Contents/Home/jre/lib/jsse.jar:/Users/conorreedy1/Development/Platforms/jdk1.8.0_25.jdk/Contents/Home/jre/lib/jce.jar:/Users/conorreedy1/Development/Platforms/jdk1.8.0_25.jdk/Contents/Home/jre/lib/charsets.jar:/Users/conorreedy1/Development/Platforms/jdk1.8.0_25.jdk/Contents/Home/jre/lib/jfr.jar:/Users/conorreedy1/Development/Platforms/jdk1.8.0_25.jdk/Contents/Home/jre/classes:/Users/conorreedy1/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar[0m
 [0m[[0mdebug[0m] [0m	-classpath[0m
 [0m[[0mdebug[0m] [0m	/Users/conorreedy1/Development/testing/GameOfLifeScala/target/scala-2.11/classes:/Users/conorreedy1/.ivy2/cache/net.debasishg/redisclient_2.11/jars/redisclient_2.11-3.0.jar:/Users/conorreedy1/.ivy2/cache/commons-pool/commons-pool/jars/commons-pool-1.6.jar:/Users/conorreedy1/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.2.jar:/Users/conorreedy1/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.6.jar:/Users/conorreedy1/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar:/Users/conorreedy1/.ivy2/cache/org.scalactic/scalactic_2.11/bundles/scalactic_2.11-2.2.6.jar:/Users/conorreedy1/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.7.jar[0m
-[0m[[31merror[0m] [0m/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/InitGame.scala:3: not found: value states[0m
-[0m[[31merror[0m] [0mobject InitGame extends states.GameStateBase {[0m
-[0m[[31merror[0m] [0m                        ^[0m
-[0m[[31merror[0m] [0m/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/RunningScenario.scala:3: not found: type GameStateBase[0m
-[0m[[31merror[0m] [0mobject RunningScenario extends GameStateBase {[0m
-[0m[[31merror[0m] [0m                               ^[0m
-[0m[[31merror[0m] [0mtwo errors found[0m
-[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
-[0m[[31merror[0m] [0m(compile:[31mcompile[0m) Compilation failed[0m
+[0m[[33mwarn[0m] [0mthere was one deprecation warning; re-run with -deprecation for details[0m
+[0m[[33mwarn[0m] [0mone warning found[0m
+[0m[[0mdebug[0m] [0mScala compilation took 3.988245185 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Cell.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Cell.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Cell.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Cell.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Cell.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, build, notifyAll, isInstanceOf, Cell, ==, clone, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/clients/GameOfLifeRedis.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/clients/GameOfLifeRedis.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/clients/GameOfLifeRedis.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/clients/GameOfLifeRedis.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/clients/GameOfLifeRedis.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, secret, database, wait, $asInstanceOf, equals, asInstanceOf, host, push, synchronized, $isInstanceOf, notifyAll, maxIdle, withClient, isInstanceOf, <init>, GameOfLifeRedis, port, ==, clone, pool, toString, !=, getClass, close, ne, timeout, init, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Game.scala: Set(<init>, GameOfLifeRedis, init)[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/GameStateBase.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/GameStateBase.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/GameStateBase.scala)[0m
+[0m[[0mdebug[0m] [0mIncluding /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/InitGame.scala by /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/GameStateBase.scala[0m
+[0m[[0mdebug[0m] [0mIncluding /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/RunningScenario.scala by /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/GameStateBase.scala[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/RunningScenario.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/GameStateBase.scala, /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/InitGame.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/GameStateBase.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, GameStateBase, isInstanceOf, <init>, ==, clone, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/InitGame.scala: Set(GameStateBase, <init>)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/RunningScenario.scala: Set(GameStateBase, <init>)[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/RunningScenario.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/RunningScenario.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/RunningScenario.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/RunningScenario.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/RunningScenario.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, RunningScenario, ==, clone, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/InitGame.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/InitGame.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/InitGame.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/InitGame.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/states/InitGame.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, InitGame, notifyAll, isInstanceOf, ==, clone, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Neighbors.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Neighbors.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Neighbors.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Neighbors.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Neighbors.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, Neighbors, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, <init>, ==, clone, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Board.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Board.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Board.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Board.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Board.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, Board, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, <init>, ==, clone, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/dtos/Board.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/dtos/Board.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/dtos/Board.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/dtos/Board.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/dtos/Board.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, Board, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, <init>, ==, clone, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/GameOfLife.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/GameOfLife.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/GameOfLife.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/GameOfLife.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/GameOfLife.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, GameOfLife, equals, asInstanceOf, executionStart, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, clone, toString, args, !=, getClass, ne, eq, delayedInit, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/GameInterface.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/GameInterface.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/GameInterface.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/GameInterface.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/GameInterface.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, GameInterface, wait, $asInstanceOf, equals, asInstanceOf, print, run, synchronized, $isInstanceOf, notifyAll, isInstanceOf, ==, clone, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Game.scala: Set(GameInterface, run)[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Game.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Game.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Game.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Game.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/models/Game.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, state, equals, asInstanceOf, run, synchronized, $isInstanceOf, initClients, notifyAll, isInstanceOf, Game, ==, clone, toString, !=, getClass, start, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/GameOfLife.scala: Set(Game, start)[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/console/Console.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/console/Console.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/console/Console.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/console/Console.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/conorreedy1/Development/testing/GameOfLifeScala/src/main/scala/ui/console/Console.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, equals, asInstanceOf, print, synchronized, $isInstanceOf, notifyAll, pad, isInstanceOf, Console, ==, clone, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
